@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mang Bao
 
-### 👨‍💻 Frontend Developer | Mobile Specialist | Full Stack Capable
+### 👨‍💻 Frontend Developer | Mobile Developer | Full Stack Capable
 
 > I am a Frontend Developer with 4 years of experience building scalable web and mobile applications. I specialize in **Real-time Trading Platforms** and **High-performance Systems**.
 
