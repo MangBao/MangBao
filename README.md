@@ -25,14 +25,15 @@
 ### 🧩 Frameworks & Libraries
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/NativeWind-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
@@ -78,10 +79,10 @@
 
 | Project                | Tech Stack                       | Description                                                                         |
 | :--------------------- | :------------------------------- | :---------------------------------------------------------------------------------- |
-| **TNET Stock Mobile**  | React Native, Expo, SQLite, Skia | 📈 Real-time stock trading application with live candlestick charts (WebSockets). |
-| **Mewpea Travel**      | Next.js, NestJS, Docker, Mantine | ✈️ A multi-service tourism platform (Tours, Hotels, Flights) with a CMS management system.     |
-| **HVMS Procurement**   | Vue.js, Micro-Frontend, Java     | 🚢 Large-scale marine materials management system using Micro Frontend architecture.    |
-| **BlueCat Monitoring** | ReactJS, Python/Flask, Cassandra | 🖥️ Virtual server infrastructure monitoring tool, automated testing with Robot Framework.       |
+| **TNET Stock Mobile**  | React Native, Expo, SQLite, Skia | 📈 [Zero-to-One] Real-time trading app with live charts via WebSockets & offline-first architecture. |
+| **Mewpea Travel**      | Next.js, NestJS, Docker, Mantine | ✈️ [Fullstack] Multi-service tourism platform. Built scalable CI/CD pipelines & Docker containerization..     |
+| **HVMS Procurement**   | Vue.js, Micro-Frontend, Java     | 🚢 [Frontend] Large-scale marine materials management system using Micro Frontend architecture.    |
+| **BlueCat Monitoring** | ReactJS, Python/Flask, Cassandra | 🖥️ [Software-Engineer] Virtual server infrastructure monitoring tool, automated testing with Robot Framework.       |
 
 ---
 
