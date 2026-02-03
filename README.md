@@ -78,10 +78,10 @@
 
 | Project                | Tech Stack                       | Description                                                                         |
 | :--------------------- | :------------------------------- | :---------------------------------------------------------------------------------- |
-| **TNET Stock Mobile**  | React Native, Expo, SQLite, Skia | 📈 Ứng dụng giao dịch chứng khoán thời gian thực với biểu đồ nến live (WebSockets). |
-| **Mewpea Travel**      | Next.js, NestJS, Docker, Mantine | ✈️ Nền tảng du lịch đa dịch vụ (Tour, Hotel, Flight) với hệ thống CMS quản trị.     |
-| **HVMS Procurement**   | Vue.js, Micro-Frontend, Java     | 🚢 Hệ thống quản lý vật tư hàng hải quy mô lớn sử dụng kiến trúc Micro Frontend.    |
-| **BlueCat Monitoring** | ReactJS, Python/Flask, Cassandra | 🖥️ Tool giám sát hạ tầng server ảo hóa, tự động hóa test với Robot Framework.       |
+| **TNET Stock Mobile**  | React Native, Expo, SQLite, Skia | 📈 Real-time stock trading application with live candlestick charts (WebSockets). |
+| **Mewpea Travel**      | Next.js, NestJS, Docker, Mantine | ✈️ A multi-service tourism platform (Tours, Hotels, Flights) with a CMS management system.     |
+| **HVMS Procurement**   | Vue.js, Micro-Frontend, Java     | 🚢 Large-scale marine materials management system using Micro Frontend architecture.    |
+| **BlueCat Monitoring** | ReactJS, Python/Flask, Cassandra | 🖥️ Virtual server infrastructure monitoring tool, automated testing with Robot Framework.       |
 
 ---
 
