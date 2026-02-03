@@ -86,6 +86,15 @@
 
 ---
 
+### 📦 NPM Packages & Libraries
+
+| Package | Role | Impact & Description |
+| :--- | :--- | :--- |
+| **[@tnet-i18n/i18n](https://www.npmjs.com/package/@tnet-i18n/i18n)** | **Author** | 🌐 **[System Design]** A shared standardization library to synchronize localization keys between Web & App teams, resolving data inconsistency issues. |
+| **[react-native-wagmi-charts](https://www.npmjs.com/package/@mbaodev/react-native-wagmi-charts)** | **Maintainer** | 📊 **[Open Source]** A customized fork of `wagmi-charts` optimized for specific financial UI requirements, published for internal & community use. |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
