@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Mang Bao
 
-### 👨‍💻 Frontend Developer | Mobile Developer | Full Stack Capable
+### 👨‍💻 Frontend Engineer | Mobile Developer | Full Stack Capable
 
-> I am a Frontend Developer with 4 years of experience building scalable web and mobile applications. I specialize in **Real-time Trading Platforms** and **High-performance Systems**.
+> I am a **Frontend Engineer** with 4 years of experience building scalable web and mobile applications. I specialize in **Real-time Trading Platforms** and **High-performance Systems**.
 
-- 🔭 I’m currently working on **Mobile Stock Trading Apps** using React Native & Expo.
-- 🌱 I have deep experience in **Micro Frontends** architecture and **Real-time Data**.
-- 🤝 I bridge the gap between Frontend and Backend with skills in **Python**, **NestJS**, & **Java**.
+- 🔭 I’m building **High-performance Real-time Apps** (Stock Trading) & exploring **AI-integrated Products**.
+- 🌱 I have deep experience in **Micro Frontends**, **WebSockets** & **System Optimization**.
+- ⚡ **AI-First Mindset:** I use AI tools (Antigravity, ChatGPT, Gemini,...) to accelerate development while maintaining code quality.
 
 ---
 
@@ -79,10 +79,11 @@
 
 | Project                | Tech Stack                       | Description                                                                         |
 | :--------------------- | :------------------------------- | :---------------------------------------------------------------------------------- |
-| **TNET Stock Mobile**  | React Native, Expo, SQLite, Skia | 📈 [Zero-to-One] Real-time trading app with live charts via WebSockets & offline-first architecture. |
-| **Mewpea Travel**      | Next.js, NestJS, Docker, Mantine | ✈️ [Fullstack] Multi-service tourism platform. Built scalable CI/CD pipelines & Docker containerization..     |
-| **HVMS Procurement**   | Vue.js, Micro-Frontend, Java     | 🚢 [Frontend] Large-scale marine materials management system using Micro Frontend architecture.    |
-| **BlueCat Monitoring** | ReactJS, Python/Flask, Cassandra | 🖥️ [Software-Engineer] Virtual server infrastructure monitoring tool, automated testing with Robot Framework.       |
+| **TNET Stock Mobile**  | React Native, Expo, SQLite, Skia | 📈 **[Zero-to-One]** Real-time trading app with live charts via WebSockets & offline-first architecture. |
+| **Mewpea Travel**      | Next.js, NestJS, Docker, Mantine | ✈️ **[Fullstack]** Multi-service tourism platform. Built scalable CI/CD pipelines & Docker containerization..     |
+| **HVMS Procurement**   | Vue.js, Micro-Frontend, Java     | 🚢 **[Frontend]** Large-scale marine materials management system using Micro Frontend architecture.    |
+| **BlueCat Monitoring** | ReactJS, Python/Flask, Cassandra | 🖥️ **[Software-Engineer]** Virtual server infrastructure monitoring tool, automated testing with Robot Framework.       |
+| **Menlo Security**     | Python, Robot Framework, Selenium| 🛡️ **[Automation]** Cloud-based security isolation platform. Built automated test suites & supported SSO integration.       |
 
 ---
 
